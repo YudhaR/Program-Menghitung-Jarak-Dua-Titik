@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666891224 source:e:\daspro\pert 7\program menghitung jarak dua titik\main.cpp
+	<iostream>
+	<math.h>
+
